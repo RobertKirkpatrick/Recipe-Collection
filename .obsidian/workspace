@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c027330776455f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8bbbc8406a78140",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Buttermilk Pancakes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90c78d221dacf351",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b1f82450f6af1ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d514dcc435a0166",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cf039a198c84ef7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "262a109b42ff33eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b789410576e1888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6193a47cba29b001",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Buttermilk Pancakes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Buttermilk Pancakes.md",
+    "Brioche Rolls.md",
+    "Buttermilk Pancakes inspired by Twin Peaks — Binging With Babish.md",
+    "Untitled.md"
+  ]
+}
