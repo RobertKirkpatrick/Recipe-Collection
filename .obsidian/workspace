@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Brioche Rolls.md",
-            "mode": "preview"
+            "file": "Mayo.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brioche Rolls.md",
+                "file": "Mayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Brioche Rolls.md",
     "Buttermilk Pancakes.md",
     "Flour_Tortillas.md",
     "README.md",
-    "Untitled.md",
     ".gitignore.md",
     "Buttermilk Pancakes inspired by Twin Peaks — Binging With Babish.md"
   ]
