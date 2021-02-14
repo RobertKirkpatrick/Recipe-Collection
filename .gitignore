@@ -28,5 +28,5 @@
 
 # Obsidian #
 ######################
-.\.obsidian\
-.gitattributes
+\.obsidian\*
+gitattributes
