@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e8bbbc8406a78140",
+        "id": "61c1a5b1afb0d4a6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Buttermilk Pancakes.md",
+            "file": ".gitignore.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buttermilk Pancakes.md",
+                "file": ".gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Buttermilk Pancakes.md",
+    ".gitignore.md",
     "Brioche Rolls.md",
-    "Buttermilk Pancakes inspired by Twin Peaks — Binging With Babish.md",
-    "Untitled.md"
+    "Buttermilk Pancakes.md",
+    "Untitled.md",
+    "Buttermilk Pancakes inspired by Twin Peaks — Binging With Babish.md"
   ]
 }
