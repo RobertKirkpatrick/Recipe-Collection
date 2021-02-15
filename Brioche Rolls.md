@@ -2,6 +2,8 @@
 ## Brioche Rolls
 Credits: https://www.youtube.com/watch?v=S1U-iMUUDvA
 
+![[Pasted image 20210215090839.png]]
+
 Time 
 --
 * 3.5-4.5 hours

@@ -4,7 +4,7 @@ Credits: https://www.youtube.com/watch?v=ynexTOjHbRs&feature=emb_title
 
 Time 
 --
-* 
+*  30 minutes
 
 Ingredients
 --
