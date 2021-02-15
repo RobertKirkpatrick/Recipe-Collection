@@ -2,6 +2,7 @@
 
 Ingredients
 --
+>
 4oz Smoked Bacon
 2LB sirloin steak (ground, chopped or 1/2" diced)
 Olive oil if necessary
