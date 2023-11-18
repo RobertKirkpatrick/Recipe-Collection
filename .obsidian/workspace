@@ -6,22 +6,12 @@
       {
         "id": "61c1a5b1afb0d4a6",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bowman-Recipes/Asparagus Risotto.md",
+            "file": "Shwarma/Pita.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b74d2b3ffe98d008",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bowman-Recipes/Easy Good Microwave Rice.md",
-            "mode": "preview"
           }
         }
       }
@@ -79,12 +69,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bowman-Recipes/Asparagus Risotto.md",
+                "file": "Shwarma/Pita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,17 +85,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61c1a5b1afb0d4a6",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Bowman-Recipes/Easy Good Microwave Rice.md",
-    "Bowman-Recipes/Pumpkin Pie.md",
-    "Chilli/TheWilsonSpecial.md",
     "Shwarma/Pita.md",
+    "Chilli/TheWilsonSpecial.md",
     "Brioche Rolls.md",
+    "Untitled.md",
     "Flour_Tortillas.md",
     "Buttermilk Pancakes.md",
     "README.md",
-    ".gitignore.md"
+    ".gitignore.md",
+    "Buttermilk Pancakes inspired by Twin Peaks — Binging With Babish.md"
   ]
 }
