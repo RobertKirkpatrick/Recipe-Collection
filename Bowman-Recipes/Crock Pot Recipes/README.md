@@ -1,0 +1,1 @@
+I try to strike a balance between convenience and quality. If there are small steps that I have found that increase the quality, I include them. If anything seems too fiddly, you can absolutely skip it, but I will add notes where I think they are needed. 
