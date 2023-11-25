@@ -13,7 +13,7 @@
 4. Cook on High for 8 hours. Yes, High.
 
 #### Notes
-- If you can't easily split the shell, it definitely needs more time. You'll probably need to add more water to cover the peanuts again.
+- If the shells aren't soft to the bite, it definitely needs more time. You'll probably need to add more water to cover the peanuts again.
 - You'll know the peanuts are done when they have a texture similar to a firm cooked bean.
 - If the peanuts taste bland, it most likely needs more salt. You'd think the spices too, but the salt carries the flavor.
 - Once the peanuts are ready, you can leave them on low all day and snack on them as you see fit. 
@@ -31,5 +31,6 @@
 |Spicey 2|<ul><li>1-4 sliced hot peppers, your choice and depending on desired heat level</li><li>Sriracha</li></ul>|Add Sriracha at the end to punch up the spice level. The amount is up to your tastes.|
 |*Cajun*|<ul><li>Cajun Seasoning</li><li>Bay Leaves</li><li>Rosemary to taste</li><li>Hot Sauce (Cayenne recommended)</li></ul>|Add hot cause at the end to punch of the spice level. The amount is up to your tastes.|
 |*Old Bay*|<ul><li>Old Bay!</li></ul>||
+|*Crab or Shrimp Boil*|<ul><li>Crab or Shrimp Boil Mix</li></ul>||
 
 Mix and Match! Do whatever. It's your time and money.
